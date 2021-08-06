@@ -1,0 +1,1 @@
+var json_Rechargevoitureelectrique_27 = {"type":"FeatureCollection","name":"Rechargevoitureelectrique_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"11"},"geometry":{"type":"Point","coordinates":[-1.271633077297777,49.588660914923281]}}]}
